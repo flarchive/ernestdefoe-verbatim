@@ -2,15 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/verbatim.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/verbatim) or the [upstream repository](https://github.com/ernestdefoe/verbatim).
 
-**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/ernestdefoe-verbatim/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/ernestdefoe-verbatim/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0.0` | 2026-09-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-verbatim/tree/archive/v1.0.0) |
-| `v1.0.1` | 2026-09-13 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-verbatim/tree/archive/v1.0.1) |
-| `v1.0.2` | 2026-11-15 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-verbatim/tree/archive/v1.0.2) |
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-verbatim.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-verbatim.json)
 
